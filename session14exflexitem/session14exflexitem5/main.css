@@ -1,0 +1,39 @@
+header {
+
+	display: flex;
+
+	
+}
+
+
+div {
+
+height: 100px;
+  border: 2px solid red;
+  
+
+  
+  
+  
+}
+
+
+.a {
+	
+	
+	flex-grow: 3;
+}
+
+
+.b {
+	
+	
+	flex-grow: 6;
+}
+
+
+.c {
+	
+	
+	flex-grow: 5;
+}

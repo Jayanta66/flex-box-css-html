@@ -1,0 +1,38 @@
+header {
+
+	display: flex;
+	
+}
+
+
+div {
+	
+
+height: 100px;
+  border: 2px solid red;
+  
+  
+  
+  
+}
+
+
+.a {
+	
+	
+ order: 3;
+}
+
+
+.b {
+	
+	
+	order: 1;
+}
+
+
+.c {
+	
+	
+	order: 2;
+}

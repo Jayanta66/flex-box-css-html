@@ -1,0 +1,21 @@
+header {
+
+	display: flex;
+	
+	
+ justify-content: flex-end;
+
+	
+}
+
+
+div {
+	
+ /*background-color: red; */
+  width: 100px;
+height: 100px;
+  border: 2px solid red;
+  
+  
+  
+}

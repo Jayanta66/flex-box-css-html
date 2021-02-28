@@ -1,0 +1,43 @@
+header {
+
+	display: flex;
+	flex-direction: column-reverse;
+
+	
+}
+
+
+div {
+	
+  width: 100px;
+height: 100px;
+  border: 2px solid red;
+  
+  
+  
+}
+
+
+.a {
+	
+	
+	flex-grow: 3;
+	flex-shrink: 1;
+}
+
+
+.b {
+	
+	
+	flex-grow: 1;
+	flex-shrink: 3;
+}
+
+
+
+.c {
+	
+	
+	flex-grow: 2;
+	flex-shrink: 12;
+}
